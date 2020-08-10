@@ -9,3 +9,4 @@ def count_empty_strings(array) # Return the total number of EMPTY strings in the
   array.count do |element|
     element == ""
 end
+end
