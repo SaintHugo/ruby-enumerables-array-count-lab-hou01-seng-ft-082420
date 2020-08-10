@@ -1,7 +1,6 @@
 def count_strings(array)
 array.count do |String|
 element.is_a(String)?
-array << String
 
 end
   # Return the total number of strings in the provided array using the count enumerable
